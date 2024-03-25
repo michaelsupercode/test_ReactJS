@@ -1,7 +1,7 @@
 body {
-    min-height: 100vh;
     display: grid;
     place-items: center;
+    margin: 2vh;
   }
 
 header ul{
@@ -15,6 +15,7 @@ header ul li{
 ul {
     list-style: none;
     display: flex;
+justify-content: space-between
 }
 
 a{
