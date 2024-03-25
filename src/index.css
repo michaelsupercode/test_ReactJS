@@ -9,3 +9,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h6 {
+  margin-top: 6vh;
+  text-align: center;
+  color: rgb(3, 3, 3);
+  }
