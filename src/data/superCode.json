@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Christian",
+        "age": 30,
+        "img": "https://assets-global.website-files.com/62d9141584e7b750edcafa6a/638dbccab55f597a69a4e794_Christian_Peters_Trainer_Fullstack.png",
+        "id": 1
+    },
+
+    {
+        "name": "Elisa",
+        "age": 28,
+        "img": "https://assets-global.website-files.com/62d9141584e7b750edcafa6a/65d33e75bcf2c9b3ff7fe2fd_Elisa%20S.-p-500.jpg",
+        "id": 3
+    }
+]

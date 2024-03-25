@@ -1,0 +1,13 @@
+header ul{
+    justify-content: end;
+}
+header ul li{
+    margin-right: 8%;
+}
+ul {
+    list-style: none;
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
