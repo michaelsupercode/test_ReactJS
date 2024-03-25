@@ -8,7 +8,7 @@ const Footer = () => {
                 two="Contact"
                 three="Social"
             />
-            <div><h6>2024_rebuild_michaelsuperCode_revised_&#9825_version</h6></div>	
+            <div><h6>2024_rebuild_michaelsuperCode_revised_♡_version</h6></div>	
         </footer>
     )
 }
