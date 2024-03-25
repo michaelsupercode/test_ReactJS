@@ -7,7 +7,6 @@ const Footer = () => {
                 one="Impressum"
                 two="Contact"
                 three="Social"
-                four="new"
             />
         </footer>
     )

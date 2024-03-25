@@ -4,7 +4,9 @@ body {
     margin: 2vh;
   }
 
-  
+  img {
+    width: 200px;
+  }
 
 header ul{
     justify-content: end;
@@ -17,6 +19,7 @@ header ul li{
 ul {
     display: flex;
     justify-content: space-between;
+    gap: .1rem;
     list-style: none;
     margin-top: 1vh;
 }
